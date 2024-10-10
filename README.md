@@ -1,0 +1,1 @@
+# Este proyecto es una implementación del famoso "Game of Life" de John Conway en C#. El "Juego de la vida" es un autómata celular que simula la evolución de una población de células vivas y muertas en una cuadrícula bidimensional.
